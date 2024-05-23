@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42c43283-2cfb-4b44-8672-ef034b6168c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heladeria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/excepciones/ProductoNuloException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/modelo/BolaHelado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/modelo/Flan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/modelo/Helado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/modelo/Postre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/servicios/CajaRegistradora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/servicios/InterfazCajaRegistradora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/testJUnit/CajaRegistradoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heladeria/utils/Constantes.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gsaTla1ZigIj8KAO9gTvSRSUs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CajaRegistradoraTest.calcularPrecioFlanBasico.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioFlanExcepcion.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioFlanExtraCaramelo.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioFlanExtraHuevo.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioHeladoBasico.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioHeladoDeChocolate.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioHeladoExcepcion.executor": "Run",
+    "JUnit.CajaRegistradoraTest.calcularPrecioHeladoToppings.executor": "Run",
+    "JUnit.CajaRegistradoraTest.encontrarBola.executor": "Run",
+    "JUnit.CajaRegistradoraTest.encontrarBolaFalse.executor": "Run",
+    "JUnit.CajaRegistradoraTest.executor": "Coverage",
+    "JUnit.CajaRegistradoraTest.postreYaPresente.executor": "Run",
+    "JUnit.CajaRegistradoraTest.postreYaPresenteFalse.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bea/IdeaProjects/Heladeria/src/heladeria",
+    "onboarding.tips.debug.path": "C:/Users/bea/IdeaProjects/Heladeria/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bea\IdeaProjects\Heladeria\src\heladeria" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="heladeria.testJUnit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CajaRegistradoraTest">
+    <configuration name="CajaRegistradoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heladeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heladeria.testJUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heladeria.testJUnit" />
+      <option name="MAIN_CLASS_NAME" value="heladeria.testJUnit.CajaRegistradoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CajaRegistradoraTest.calcularPrecioHeladoDeChocolate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heladeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heladeria.testJUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heladeria.testJUnit" />
+      <option name="MAIN_CLASS_NAME" value="heladeria.testJUnit.CajaRegistradoraTest" />
+      <option name="METHOD_NAME" value="calcularPrecioHeladoDeChocolate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CajaRegistradoraTest.calcularPrecioHeladoToppings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heladeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heladeria.testJUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heladeria.testJUnit" />
+      <option name="MAIN_CLASS_NAME" value="heladeria.testJUnit.CajaRegistradoraTest" />
+      <option name="METHOD_NAME" value="calcularPrecioHeladoToppings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CajaRegistradoraTest.encontrarBola" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heladeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heladeria.testJUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heladeria.testJUnit" />
+      <option name="MAIN_CLASS_NAME" value="heladeria.testJUnit.CajaRegistradoraTest" />
+      <option name="METHOD_NAME" value="encontrarBola" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CajaRegistradoraTest.encontrarBolaFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heladeria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heladeria.testJUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="heladeria.testJUnit" />
+      <option name="MAIN_CLASS_NAME" value="heladeria.testJUnit.CajaRegistradoraTest" />
+      <option name="METHOD_NAME" value="encontrarBolaFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CajaRegistradoraTest" />
+        <item itemvalue="JUnit.CajaRegistradoraTest.encontrarBolaFalse" />
+        <item itemvalue="JUnit.CajaRegistradoraTest.encontrarBola" />
+        <item itemvalue="JUnit.CajaRegistradoraTest.calcularPrecioHeladoDeChocolate" />
+        <item itemvalue="JUnit.CajaRegistradoraTest.calcularPrecioHeladoToppings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c43283-2cfb-4b44-8672-ef034b6168c2" name="Changes" comment="" />
+      <created>1716488751880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716488751880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Heladeria$CajaRegistradoraTest.ic" NAME="CajaRegistradoraTest Coverage Results" MODIFIED="1716497667418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>heladeria.testJUnit.*</FILTER>
+    </SUITE>
+  </component>
+</project>
